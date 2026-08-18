@@ -1,0 +1,26 @@
+#a1{
+    font-family: "Brush Script MT",cursive;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 80px;
+    display: grid;
+}
+#a2{
+    font-style: italic;
+    font-weight: bolder;
+   display: flow-root;
+}
+h2{
+    font: bolder italic 40px "Comic Sans MS", cursive, sans-serif ;
+    text-align: center;
+    text-decoration: underline;
+    display: flexbox;
+}
+h3{
+    font-family: "sofia" , cursive;
+    display: block;
+}
+#a3{
+    font-style: oblique;
+    margin: auto;
+}
